@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>refrencethatcausesbug</id>
+    <version>0.0.11</version>
+    <authors>refrencethatcausesbug</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="CommunityToolkit.MVVM" version="8.3.2" exclude="Build,Analyzers" />
+        <dependency id="CommunityToolkit.Maui" version="8.0.1" exclude="Build,Analyzers" />
+        <dependency id="Loke.Models" version="0.0.9" exclude="Build,Analyzers" />
+        <dependency id="Loke.UI" version="0.0.9" exclude="Build,Analyzers" />
+        <dependency id="Loke.UI.Gateway" version="0.0.9" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.WebUtilities" version="8.0.7" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration.Binder" version="8.0.2" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration.Json" version="8.0.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.DependencyInjection.Abstractions" version="8.0.2" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Http" version="8.0.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Http.Polly" version="8.0.10" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Localization" version="8.0.10" exclude="Build,Analyzers" />
+        <dependency id="RLS.DTOs" version="2.1.32" exclude="Build,Analyzers" />
+        <dependency id="System.Net.Http" version="4.3.4" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\aft01\prj\bugreports\rclreprobug\refrencethatcausesbug\bin\Release\net8.0\refrencethatcausesbug.dll" target="lib\net8.0\refrencethatcausesbug.dll" />
+    <file src="C:\Users\aft01\prj\bugreports\rclreprobug\refrencethatcausesbug\bin\Release\net8.0\refrencethatcausesbug.xml" target="lib\net8.0\refrencethatcausesbug.xml" />
+  </files>
+</package>

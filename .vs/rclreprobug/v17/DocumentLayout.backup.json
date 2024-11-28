@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aft01\\prj\\bugreports\\rclreprobug\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FAC7346-1593-4708-AE38-BD00D39A802C}|rclreprobug\\rclreprobug.csproj|c:\\users\\aft01\\prj\\bugreports\\rclreprobug\\rclreprobug\\rclreprobug.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2FAC7346-1593-4708-AE38-BD00D39A802C}|rclreprobug\\rclreprobug.csproj|solutionrelative:rclreprobug\\rclreprobug.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{369B52EA-A968-4A43-BE36-2153B981EFFF}|refrencethatcausesbug\\refrencethatcausesbug.csproj|c:\\users\\aft01\\prj\\bugreports\\rclreprobug\\refrencethatcausesbug\\refrencethatcausesbug.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{369B52EA-A968-4A43-BE36-2153B981EFFF}|refrencethatcausesbug\\refrencethatcausesbug.csproj|solutionrelative:refrencethatcausesbug\\refrencethatcausesbug.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{369B52EA-A968-4A43-BE36-2153B981EFFF}|refrencethatcausesbug\\refrencethatcausesbug.csproj|c:\\users\\aft01\\prj\\bugreports\\rclreprobug\\refrencethatcausesbug\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{369B52EA-A968-4A43-BE36-2153B981EFFF}|refrencethatcausesbug\\refrencethatcausesbug.csproj|solutionrelative:refrencethatcausesbug\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FAC7346-1593-4708-AE38-BD00D39A802C}|rclreprobug\\rclreprobug.csproj|c:\\users\\aft01\\prj\\bugreports\\rclreprobug\\rclreprobug\\areas\\myfeature\\pages\\page1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2FAC7346-1593-4708-AE38-BD00D39A802C}|rclreprobug\\rclreprobug.csproj|solutionrelative:rclreprobug\\areas\\myfeature\\pages\\page1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "rclreprobug.csproj",
+              "DocumentMoniker": "C:\\Users\\aft01\\prj\\bugreports\\rclreprobug\\rclreprobug\\rclreprobug.csproj",
+              "RelativeDocumentMoniker": "rclreprobug\\rclreprobug.csproj",
+              "ToolTip": "C:\\Users\\aft01\\prj\\bugreports\\rclreprobug\\rclreprobug\\rclreprobug.csproj",
+              "RelativeToolTip": "rclreprobug\\rclreprobug.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-28T11:43:13.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "refrencethatcausesbug.csproj",
+              "DocumentMoniker": "C:\\Users\\aft01\\prj\\bugreports\\rclreprobug\\refrencethatcausesbug\\refrencethatcausesbug.csproj",
+              "RelativeDocumentMoniker": "refrencethatcausesbug\\refrencethatcausesbug.csproj",
+              "ToolTip": "C:\\Users\\aft01\\prj\\bugreports\\rclreprobug\\refrencethatcausesbug\\refrencethatcausesbug.csproj",
+              "RelativeToolTip": "refrencethatcausesbug\\refrencethatcausesbug.csproj",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-28T11:17:30.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\aft01\\prj\\bugreports\\rclreprobug\\refrencethatcausesbug\\Class1.cs",
+              "RelativeDocumentMoniker": "refrencethatcausesbug\\Class1.cs",
+              "ToolTip": "C:\\Users\\aft01\\prj\\bugreports\\rclreprobug\\refrencethatcausesbug\\Class1.cs",
+              "RelativeToolTip": "refrencethatcausesbug\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T11:15:29.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Page1.cshtml",
+              "DocumentMoniker": "C:\\Users\\aft01\\prj\\bugreports\\rclreprobug\\rclreprobug\\Areas\\MyFeature\\Pages\\Page1.cshtml",
+              "RelativeDocumentMoniker": "rclreprobug\\Areas\\MyFeature\\Pages\\Page1.cshtml",
+              "ToolTip": "C:\\Users\\aft01\\prj\\bugreports\\rclreprobug\\rclreprobug\\Areas\\MyFeature\\Pages\\Page1.cshtml",
+              "RelativeToolTip": "rclreprobug\\Areas\\MyFeature\\Pages\\Page1.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T11:14:04.135Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

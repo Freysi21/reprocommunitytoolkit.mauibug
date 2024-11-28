@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>refrencethatcausesbug</id>
+    <version>0.0.9</version>
+    <authors>refrencethatcausesbug</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\aft01\prj\bugreports\rclreprobug\refrencethatcausesbug\bin\Debug\net8.0\refrencethatcausesbug.dll" target="lib\net8.0\refrencethatcausesbug.dll" />
+    <file src="C:\Users\aft01\prj\bugreports\rclreprobug\refrencethatcausesbug\bin\Debug\net8.0\refrencethatcausesbug.xml" target="lib\net8.0\refrencethatcausesbug.xml" />
+  </files>
+</package>
